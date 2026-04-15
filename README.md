@@ -29,22 +29,13 @@ Backend engineer focused on **reliability, security, and predictable systems**.
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Tech Stack
 
-### 💻 Core
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,php,laravel" />
-</p>
-
-### 🌐 Backend & Infrastructure
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,bash,nginx" />
-</p>
-
-### 🗄️ Data & Tooling
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql,redis,postman" />
-</p>
+| Category | Technologies |
+| :--- | :--- |
+| **Core Languages** | <img src="https://skillicons.dev/icons?i=cs" width="40" height="40" title="C#"/> <img src="https://skillicons.dev/icons?i=dotnet" width="40" height="40" title=".NET"/> <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" title="C++"/> <img src="https://skillicons.dev/icons?i=php" width="40" height="40" title="PHP"/> <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" title="Laravel"/> |
+| **Backend & Infrastructure** | <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" title="Docker"/> <img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" title="GitHub Actions"/> <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" title="Linux"/> <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" title="Bash"/> <img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" title="Nginx"/> |
+| **Databases & Tools** | <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" title="MySQL"/> <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" title="PostgreSQL"/> <img src="https://skillicons.dev/icons?i=mssql" width="40" height="40" title="MSSQL"/> <img src="https://skillicons.dev/icons?i=redis" width="40" height="40" title="Redis"/> <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" title="Postman"/> |
 
 ---
 
@@ -88,7 +79,7 @@ Backend engineer focused on **reliability, security, and predictable systems**.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&section=footer&color=EF4444" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kurtbey1&color=EF4444&style=flat-square&label=ACCESS_LOG" />
+  <img src="https://komarev.com/ghpvc/?username=Kurtbey1&color=EF4444&style=flat-square&label=Profile+Views" />
 </p>
 
 </div>
