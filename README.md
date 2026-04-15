@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&section=header&text=Abd%20Elrahman%20Alqudah&fontSize=45&fontColor=FFFFFF&desc=DevSecOps%20%7C%20Back-End%20Architect&descSize=20&descAlignY=65&color=EF4444" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&section=header&text=Abd%20Elrahman%20Alqudah&fontSize=45&fontColor=FFFFFF&desc=Backend%20Engineer%20%7C%20DevSecOps&descSize=20&descAlignY=65&color=EF4444" />
 
 <a href="https://github.com/Kurtbey1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&color=EF4444&lines=Secure+by+Design;Clean+Architecture+Expert;DevSecOps+Engineer;Boringly+Stable+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&color=EF4444&lines=Security-Focused+Backend;Clean+Architecture+(When+It+Fits);DevSecOps+Practices;Systems+That+Fail+Predictably" />
 </a>
 
 <p align="center">
@@ -17,15 +17,21 @@
 
 ---
 
-## 🛡️ The Mission
+## 🛡️ Focus
 
-I build backend infrastructures that don't just "work"—they **withstand**. I treat every line of code as a potential liability, applying **Domain-Driven Design (DDD)** and **Zero-Trust principles** to ensure reliability is a byproduct of the architecture, not an afterthought.
+Backend engineer focused on **reliability, security, and predictable systems**.
+
+- Design APIs with **clear failure behavior**
+- Apply **security controls early**, not after deployment
+- Use structured architecture **only when it reduces complexity**
+
+> If a system breaks in unexpected ways, it’s poorly designed.
 
 ---
 
-## 🛠️ The Arsenal
+## 🛠️ Stack
 
-### 💻 Core Development
+### 💻 Core
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,php,laravel" />
 </p>
@@ -35,14 +41,14 @@ I build backend infrastructures that don't just "work"—they **withstand**. I t
   <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,bash,nginx" />
 </p>
 
-### 🗄️ Database & Security
+### 🗄️ Data & Tooling
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql,redis,postman" />
 </p>
 
 ---
 
-## 📊 Analytics & Impact
+## 📊 Analytics
 
 <table align="center">
   <tr>
@@ -61,17 +67,17 @@ I build backend infrastructures that don't just "work"—they **withstand**. I t
 
 ---
 
-## 🚀 Architectural Showcases
+## 🚀 Projects
 
-| Project | Core Focus | Link |
+| Project | What It Demonstrates | Link |
 | :--- | :--- | :--- |
-| **SecureAPI Boilerplate** | Auth Hardening | [Explore](https://github.com/Kurtbey1/secureapi-boilerplate) |
-| **DevSecOps Pipeline** | CI/CD SAST/DAST | [Explore](https://github.com/Kurtbey1/devsecops-pipeline) |
-| **CleanArch Template** | Scalability & CQRS | [Explore](https://github.com/Kurtbey1/clean-arch-template) |
+| **SecureAPI Boilerplate** | JWT auth, RBAC enforcement, rate limiting, centralized error handling | [Explore](https://github.com/Kurtbey1/secureapi-boilerplate) |
+| **DevSecOps Pipeline** | CI/CD with security scanning (SAST + container analysis) | [Explore](https://github.com/Kurtbey1/devsecops-pipeline) |
+| **CleanArch Template** | Layered structure with controlled dependencies (no over-engineering) | [Explore](https://github.com/Kurtbey1/clean-arch-template) |
 
 ---
 
-## 📈 Activity Stream
+## 📈 Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kurtbey1&theme=github-dark&color=EF4444&line=EF4444&point=FFFFFF&hide_border=true" width="100%" />
