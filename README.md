@@ -1,86 +1,106 @@
 <div align="center">
 
-<!-- ================= HEADER ================= -->
-<a href="https://github.com/Kurtbey1">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Abd%20Elrahman%20Alqudah&fontSize=30&fontColor=FFFFFF&fontAlignY=35&color=EF4444" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Abd%20Elrahman%20Alqudah&fontSize=30&fontColor=FFFFFF&fontAlignY=35&color=EF4444" />
 
-<!-- ================= TYPING ANIMATION ================= -->
-<a href="https://github.com/Kurtbey1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&color=EF4444&lines=Back-End+Developer+|+DevSecOps;Secure+by+Design;Clean+Architecture+|+SOLID;Building+boringly+stable+systems" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&color=EF4444&lines=Backend+Engineer;Security+%7C+Reliability+%7C+Systems;I+build+things+that+don’t+break" />
 
-<!-- ================= ABOUT ME ================= -->
-## 🔴 About Me
-
-I’m a **Back-End Developer** who prioritizes **security, architecture, and reliability**.  
-I don’t chase hype – I chase **correctness, separation of concerns, and controlled failure**.
-
-- 🏛️ Design secure backend systems with **ASP.NET Core** & **SQL Server**  
-- 🔐 Implement **JWT authentication**, **RBAC**, and security-first APIs  
-- 🐳 Containerize services using **Docker**  
-- 🎯 Apply **SOLID** principles and **Clean Architecture** intentionally  
-
-> *“Make it work, make it secure, make it boring.”*
-
-<!-- ================= TECH STACK ================= -->
-## 🛠️ Tech Stack
-
-| **Core**         | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Backend**      | ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
-| **Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| **Databases**    | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
-
-<!-- ================= GITHUB STATS ================= -->
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kurtbey1&show_icons=true&theme=dark&title_color=EF4444&icon_color=EF4444&text_color=FFFFFF&bg_color=0D1117&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurtbey1&layout=compact&theme=dark&title_color=EF4444&text_color=FFFFFF&bg_color=0D1117&hide_border=true" />
 </div>
 
+---
+
+## 🔴 Who Am I
+
+Backend engineer focused on **building systems that survive real usage** — not just pass local tests.
+
+- Design APIs that **fail predictably**, not randomly  
+- Prefer **explicit architecture over clever hacks**  
+- Treat security as a **default constraint**, not an add-on  
+
+> If it only works in ideal conditions, it’s broken.
+
+---
+
+## ⚙️ Engineering Focus
+
+- **API Design:** Idempotency, validation boundaries, failure handling  
+- **Security:** JWT, RBAC, input validation, attack surface reduction  
+- **Architecture:** Clean Architecture (when it actually makes sense)  
+- **Reliability:** Logging, observability, controlled degradation  
+- **Containers:** Reproducible environments with Docker  
+
+---
+
+## 🛠️ Stack (Used with Intent)
+
+- **Languages:** C#, PHP, C++  
+- **Backend:** ASP.NET Core, Laravel  
+- **Data:** SQL Server, PostgreSQL, MySQL  
+- **Infra:** Docker, Linux, Git  
+
+---
+
+## 🚀 Projects (What Actually Matters)
+
+### 🔐 Secure API Boilerplate
+Production-oriented API baseline.
+
+**What’s inside:**
+- Token-based auth with enforced role boundaries  
+- Rate limiting to mitigate abuse  
+- Centralized error handling (no silent failures)  
+- Structured logging for debugging under pressure  
+
+👉 Focus: **predictable behavior under bad input**
+
+---
+
+### ⚙️ DevSecOps Pipeline
+Pipeline that treats security as part of delivery.
+
+**Includes:**
+- Static analysis (SAST)
+- Container scanning
+- Automated build + validation  
+
+👉 Focus: **catch problems before production does**
+
+---
+
+### 🧱 Clean Architecture Template
+Not over-engineered. Structured intentionally.
+
+**Decisions:**
+- Clear boundaries between layers  
+- CQRS only where it reduces complexity (not blindly applied)  
+
+👉 Focus: **maintainability without unnecessary abstraction**
+
+---
+
+## 📊 GitHub Activity
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kurtbey1&theme=dark&ring=EF4444&fire=EF4444&currStreakLabel=EF4444&sideLabels=FFFFFF&dates=FFFFFF&background=0D1117&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kurtbey1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=EF4444" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurtbey1&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=EF4444" />
 </div>
 
-<!-- ================= ACTIVITY GRAPH ================= -->
-## 📈 Contribution Activity
+---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kurtbey1&theme=github-dark&color=EF4444&line=EF4444&point=FFFFFF&hide_border=true" width="100%" />
-</div>
+## 🧠 Engineering Principles
 
-<!-- ================= PROJECTS ================= -->
-## 🚀 Featured Projects
+- Simplicity > cleverness  
+- Explicit > implicit  
+- Secure by default  
+- Fail fast, log everything  
+- If you can’t debug it at 3AM, it’s badly designed  
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[SecureAPI Boilerplate](https://github.com/Kurtbey1/secureapi-boilerplate)** | Production-ready ASP.NET Core API with JWT, RBAC, rate limiting, and structured logging | `.NET 8`, `SQL Server`, `Docker` |
-| **[DevSecOps Pipeline Demo](https://github.com/Kurtbey1/devsecops-pipeline)** | CI/CD pipeline with SAST, DAST, and container scanning using GitHub Actions | `GitHub Actions`, `Docker`, `Trivy` |
-| **[CleanArchitecture Template](https://github.com/Kurtbey1/clean-arch-template)** | Layered solution template following Clean Architecture and CQRS | `ASP.NET Core`, `MediatR`, `Entity Framework` |
+---
 
-> 💡 *Replace the links and descriptions with your actual projects – or remove this section if you don’t have public repos yet.*
+## 🤝 Contact
 
-<!-- ================= CONNECT ================= -->
-## 🤝 Let’s Connect
+- LinkedIn: https://www.linkedin.com/in/abd-elarhman/  
+- GitHub: https://github.com/Kurtbey1  
 
-<a href="https://www.linkedin.com/in/abd-elarhman/">
-  <img src="https://img.shields.io/badge/LinkedIn-EF4444?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/Kurtbey1">
-  <img src="https://img.shields.io/badge/GitHub-EF4444?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-EF4444?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+---
 
-<!-- ================= PROFILE VIEWS ================= -->
 <img src="https://komarev.com/ghpvc/?username=Kurtbey1&color=EF4444&style=for-the-badge" />
-
-<!-- ================= FOOTER ================= -->
-<a href="https://github.com/Kurtbey1">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=EF4444" />
-</a>
-
-</div>
