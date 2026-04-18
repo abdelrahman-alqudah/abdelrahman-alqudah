@@ -241,3 +241,5 @@ $ whoami
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=60&section=footer&color=EF4444&fontColor=FFFFFF&fontSize=14&text=Building+systems+with+precision+%26+purpose" />
 </div>
+
+https://github-readme-stats.vercel.app/api?username=Kurtbey1&show_icons=true&theme=dark&title_color=EF4444&icon_color=EF4444&border_color=EF4444&hide_border=false
