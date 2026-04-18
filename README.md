@@ -125,5 +125,5 @@ $ whoami
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&section=footer&color=EF4444&fontColor=FFFFFF&fontSize=14&text=Building+systems+with+precision+%26+purpose" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=EF4444&fontColor=FFFFFF&fontSize=14&text=Building+systems+with+precision+%26+purpose&section=footer&fontAlignY=65" />
 </div>
