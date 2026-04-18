@@ -2,25 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&section=header&text=Abd%20Elrahman%20Alqudah&fontSize=45&fontColor=FFFFFF&desc=Backend%20Engineer%20%7C%20DevSecOps&descSize=20&descAlignY=65&color=EF4444" />
 
-<br/>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abd-elarhman/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:info@abdelrahmanalqudah.dev">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://abdelrahmanalqudah.dev">
-    <img src="https://img.shields.io/badge/Portfolio-EF4444?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-  <a href="https://github.com/Kurtbey1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-</div>
-
 <a href="https://github.com/Kurtbey1">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&color=EF4444&lines=Backend+Engineer+%7C+DevSecOps;Laravel+%26+ASP.NET+Core;Systems+That+Fail+Predictably;Security+Baked+In%2C+Not+Bolted+On" />
 </a>
@@ -121,17 +102,6 @@ $ whoami
 
 ---
 
-## 📬 Contact
-📧  info@abdelrahmanalqudah.dev
-📍  Amman, Jordan
-🌐  abdelrahmanalqudah.dev
-
-> Open to backend, API and system design roles. Remote-first, open to discussion. I respond within 24 hours.
-
----
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -141,4 +111,19 @@ $ whoami
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kurtbey1&bg_color=0d1117&color=EF4444&line=EF4444&point=ffffff&area=true&border_color=EF4444" />
 
+</div>
+
+---
+
+## 📬 Contact
+📧  info@abdelrahmanalqudah.dev
+📍  Amman, Jordan
+🌐  abdelrahmanalqudah.dev
+
+> Open to backend, API and system design roles. Remote-first, open to discussion. I respond within 24 hours.
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&section=footer&color=EF4444&fontColor=FFFFFF&fontSize=14&text=Building+systems+with+precision+%26+purpose" />
 </div>
