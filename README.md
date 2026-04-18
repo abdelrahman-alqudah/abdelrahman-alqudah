@@ -3,83 +3,241 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&section=header&text=Abd%20Elrahman%20Alqudah&fontSize=45&fontColor=FFFFFF&desc=Backend%20Engineer%20%7C%20DevSecOps&descSize=20&descAlignY=65&color=EF4444" />
 
 <a href="https://github.com/Kurtbey1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&color=EF4444&lines=Security-Focused+Backend;Clean+Architecture+(When+It+Fits);DevSecOps+Practices;Systems+That+Fail+Predictably" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&color=EF4444&lines=Backend+Engineer+%7C+DevSecOps;Laravel+%26+ASP.NET+Core;Systems+That+Fail+Predictably;Security+Baked+In%2C+Not+Bolted+On" />
 </a>
+
+<br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abd-elarhman/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:info@abdelrahmanalqudah.dev">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://abdelrahmanalqudah.dev">
+    <img src="https://img.shields.io/badge/Portfolio-EF4444?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://github.com/Kurtbey1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
+</div>
+
 ---
 
-## 🛡️ Focus
+```bash
+$ whoami
+→ Back-End Engineer. I build high-availability APIs and scalable systems.
+  Security isn't an afterthought — it's in the architecture from day one.
+```
 
-Backend engineer focused on **reliability, security, and predictable systems**.
+---
 
-- Design APIs with **clear failure behavior**
-- Apply **security controls early**, not after deployment
-- Use structured architecture **only when it reduces complexity**
+## 📊 At a Glance
 
-> If a system breaks in unexpected ways, it’s poorly designed.
+<div align="center">
+
+| 🏆 Job Achievements | 📅 Experience | 😊 Happy Clients | 🚀 Projects |
+|:---:|:---:|:---:|:---:|
+| **8+** | **2+ Years** | **5+** | **10+** |
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Core Languages** | <img src="https://skillicons.dev/icons?i=cs" width="40" height="40" title="C#"/> <img src="https://skillicons.dev/icons?i=dotnet" width="40" height="40" title=".NET"/> <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" title="C++"/> <img src="https://skillicons.dev/icons?i=php" width="40" height="40" title="PHP"/> <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" title="Laravel"/> |
-| **Backend & Infrastructure** | <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" title="Docker"/> <img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" title="GitHub Actions"/> <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" title="Linux"/> <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" title="Bash"/> <img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" title="Nginx"/> |
-| **Databases & Tools** | <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" title="MySQL"/> <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" title="PostgreSQL"/> <img src="https://skillicons.dev/icons?i=mssql" width="40" height="40" title="MSSQL"/> <img src="https://skillicons.dev/icons?i=redis" width="40" height="40" title="Redis"/> <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" title="Postman"/> |
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-EF4444?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-EF4444?style=for-the-badge&logo=serverless&logoColor=white" />
+</p>
 
----
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
 
-## 📊 Analytics
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Kurtbey1&show_icons=true&theme=dark&title_color=EF4444&icon_color=EF4444&text_color=FFFFFF&bg_color=0D1117&hide_border=true" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurtbey1&layout=compact&theme=dark&title_color=EF4444&text_color=FFFFFF&bg_color=0D1117&hide_border=true" />
-    </td>
-  </tr>
-</table>
+### DevSecOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black" />
+</p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kurtbey1&theme=dark&ring=EF4444&fire=EF4444&currStreakLabel=EF4444&sideLabels=FFFFFF&dates=FFFFFF&background=0D1117&hide_border=true" />
+### Testing
+<p>
+  <img src="https://img.shields.io/badge/PHPUnit-3F4F75?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pest-EF4444?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Projects
-
-| Project | What It Demonstrates | Link |
-| :--- | :--- | :--- |
-| **SecureAPI Boilerplate** | JWT auth, RBAC enforcement, rate limiting, centralized error handling | [Explore](https://github.com/Kurtbey1/secureapi-boilerplate) |
-| **DevSecOps Pipeline** | CI/CD with security scanning (SAST + container analysis) | [Explore](https://github.com/Kurtbey1/devsecops-pipeline) |
-| **CleanArch Template** | Layered structure with controlled dependencies (no over-engineering) | [Explore](https://github.com/Kurtbey1/clean-arch-template) |
+## 💡 What I Do
+01 · Backend Development   →  High-performance APIs with Laravel & ASP.NET Core
+02 · System Design         →  Microservices, distributed IDs, zero single points of failure
+03 · DevSecOps             →  Docker pipelines, CI/CD, Snyk, SonarQube, HashiCorp Vault
+04 · Database Engineering  →  PostgreSQL schema design, query optimization, Redis caching
 
 ---
 
-## 📈 Activity
+## 📬 Contact
+📧  info@abdelrahmanalqudah.dev
+📍  Amman, Jordan
+🌐  abdelrahmanalqudah.dev
+
+> Open to backend, API and system design roles. Remote-first, open to discussion. I respond within 24 hours.
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&section=footer&color=EF4444&fontColor=FFFFFF&fontSize=14&text=Building+systems+with+precision+%26+purpose" />
+</div>
+
+What I changed vs your original:
+
+Fixed your email — was a placeholder, now uses your real one
+Added Portfolio and GitHub badges
+Full tech stack with real icons from shields.io — every tool from your site
+Stats table so the numbers aren't just buried in a bio
+The whoami terminal block from before but as a proper code block GitHub actually renders
+Services section as a clean code block — readable without being noisy
+Footer banner to close it properly
+
+Paste it as your README.md and you're done.Give me this full-on one scope3:40 PMmarkdown<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&section=header&text=Abd%20Elrahman%20Alqudah&fontSize=45&fontColor=FFFFFF&desc=Backend%20Engineer%20%7C%20DevSecOps&descSize=20&descAlignY=65&color=EF4444" />
+
+<a href="https://github.com/Kurtbey1">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&color=EF4444&lines=Backend+Engineer+%7C+DevSecOps;Laravel+%26+ASP.NET+Core;Systems+That+Fail+Predictably;Security+Baked+In%2C+Not+Bolted+On" />
+</a>
+
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kurtbey1&theme=github-dark&color=EF4444&line=EF4444&point=FFFFFF&hide_border=true" width="100%" />
+  <a href="https://www.linkedin.com/in/abd-elarhman/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:info@abdelrahmanalqudah.dev">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://abdelrahmanalqudah.dev">
+    <img src="https://img.shields.io/badge/Portfolio-EF4444?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://github.com/Kurtbey1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+---
+
+```bash
+$ whoami
+→ Back-End Engineer. I build high-availability APIs and scalable systems.
+  Security isn't an afterthought — it's in the architecture from day one.
+```
+
+---
+
+## 📊 At a Glance
+
+<div align="center">
+
+| 🏆 Job Achievements | 📅 Experience | 😊 Happy Clients | 🚀 Projects |
+|:---:|:---:|:---:|:---:|
+| **8+** | **2+ Years** | **5+** | **10+** |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-EF4444?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-EF4444?style=for-the-badge&logo=serverless&logoColor=white" />
+</p>
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+
+### DevSecOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black" />
+</p>
+
+### Testing
+<p>
+  <img src="https://img.shields.io/badge/PHPUnit-3F4F75?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pest-EF4444?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&section=footer&color=EF4444" />
+## 💡 What I Do
+01 · Backend Development   →  High-performance APIs with Laravel & ASP.NET Core
+02 · System Design         →  Microservices, distributed IDs, zero single points of failure
+03 · DevSecOps             →  Docker pipelines, CI/CD, Snyk, SonarQube, HashiCorp Vault
+04 · Database Engineering  →  PostgreSQL schema design, query optimization, Redis caching
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kurtbey1&color=EF4444&style=flat-square&label=Profile+Views" />
-</p>
+---
 
+## 📬 Contact
+📧  info@abdelrahmanalqudah.dev
+📍  Amman, Jordan
+🌐  abdelrahmanalqudah.dev
+
+> Open to backend, API and system design roles. Remote-first, open to discussion. I respond within 24 hours.
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&section=footer&color=EF4444&fontColor=FFFFFF&fontSize=14&text=Building+systems+with+precision+%26+purpose" />
 </div>
