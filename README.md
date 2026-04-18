@@ -125,5 +125,7 @@ $ whoami
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=EF4444&fontColor=FFFFFF&fontSize=14&text=Building+systems+with+precision+%26+purpose&section=footer&fontAlignY=65" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+  <br/>
+  <b style="color:#EF4444">Building systems with precision & purpose</b>
 </div>
