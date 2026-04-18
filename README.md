@@ -238,8 +238,15 @@ $ whoami
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&section=footer&color=EF4444&fontColor=FFFFFF&fontSize=14&text=Building+systems+with+precision+%26+purpose" />
-</div>
+---
 
-https://github-readme-stats.vercel.app/api?username=Kurtbey1&show_icons=true&theme=dark&title_color=EF4444&icon_color=EF4444&border_color=EF4444&hide_border=false
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kurtbey1&show_icons=true&theme=dark&title_color=EF4444&icon_color=EF4444&border_color=EF4444&hide_border=false" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Kurtbey1&theme=dark&ring=EF4444&fire=EF4444&currStreakLabel=EF4444&border=EF4444" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kurtbey1&bg_color=0d1117&color=EF4444&line=EF4444&point=ffffff&area=true&border_color=EF4444" />
+
+</div>
