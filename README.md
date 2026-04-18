@@ -2,10 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&section=header&text=Abd%20Elrahman%20Alqudah&fontSize=45&fontColor=FFFFFF&desc=Backend%20Engineer%20%7C%20DevSecOps&descSize=20&descAlignY=65&color=EF4444" />
 
-<a href="https://github.com/Kurtbey1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&color=EF4444&lines=Backend+Engineer+%7C+DevSecOps;Laravel+%26+ASP.NET+Core;Systems+That+Fail+Predictably;Security+Baked+In%2C+Not+Bolted+On" />
-</a>
-
 <br/>
 
 <p align="center">
