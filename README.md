@@ -1,8 +1,9 @@
-<div align="center">
+Here's the fixed README with the correct username everywhere:
+markdown<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&section=header&text=Abd%20Elrahman%20Alqudah&fontSize=45&fontColor=FFFFFF&desc=Backend%20Engineer%20%7C%20DevSecOps&descSize=20&descAlignY=65&color=1E3A5F" />
 
-<a href="https://github.com/Kurtbey1">
+<a href="https://github.com/abdelrahman-alqudah">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&color=1E3A5F&lines=Backend+Engineer+%7C+DevSecOps;Laravel+%26+ASP.NET+Core;Systems+That+Fail+Predictably;Security+Baked+In%2C+Not+Bolted+On" />
 </a>
 
@@ -18,7 +19,7 @@
   <a href="https://abdelrahmanalqudah.dev">
     <img src="https://img.shields.io/badge/Portfolio-1E3A5F?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
-  <a href="https://github.com/Kurtbey1">
+  <a href="https://github.com/abdelrahman-alqudah">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -106,10 +107,10 @@ $ whoami
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kurtbey1&show_icons=true&theme=dark&title_color=1E3A5F&icon_color=1E3A5F&border_color=1E3A5F&hide_border=false" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Kurtbey1&theme=dark&ring=1E3A5F&fire=1E3A5F&currStreakLabel=1E3A5F&border=1E3A5F" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdelrahman-alqudah&show_icons=true&theme=dark&title_color=1E3A5F&icon_color=1E3A5F&border_color=1E3A5F&hide_border=false" />
+<img width="49%" src="https://streak-stats.demolab.com?user=abdelrahman-alqudah&theme=dark&ring=1E3A5F&fire=1E3A5F&currStreakLabel=1E3A5F&border=1E3A5F" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kurtbey1&bg_color=0d1117&color=1E3A5F&line=1E3A5F&point=ffffff&area=true&border_color=1E3A5F" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdelrahman-alqudah&bg_color=0d1117&color=1E3A5F&line=1E3A5F&point=ffffff&area=true&border_color=1E3A5F" />
 
 </div>
 
