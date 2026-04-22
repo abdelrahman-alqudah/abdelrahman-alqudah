@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&section=header&text=Abd%20Elrahman%20Alqudah&fontSize=45&fontColor=FFFFFF&desc=Backend%20Engineer%20%7C%20DevSecOps&descSize=20&descAlignY=65&color=EF4444" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&section=header&text=Abd%20Elrahman%20Alqudah&fontSize=45&fontColor=FFFFFF&desc=Backend%20Engineer%20%7C%20DevSecOps&descSize=20&descAlignY=65&color=1E3A5F " />
 
 <a href="https://github.com/Kurtbey1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&color=EF4444&lines=Backend+Engineer+%7C+DevSecOps;Laravel+%26+ASP.NET+Core;Systems+That+Fail+Predictably;Security+Baked+In%2C+Not+Bolted+On" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&color=1E3A5F &lines=Backend+Engineer+%7C+DevSecOps;Laravel+%26+ASP.NET+Core;Systems+That+Fail+Predictably;Security+Baked+In%2C+Not+Bolted+On" />
 </a>
 
 <br/>
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://abdelrahmanalqudah.dev">
-    <img src="https://img.shields.io/badge/Portfolio-EF4444?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-1E3A5F ?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <a href="https://github.com/Kurtbey1">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -53,10 +53,10 @@ $ whoami
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-EF4444?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-1E3A5F ?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-EF4444?style=for-the-badge&logo=serverless&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-1E3A5F ?style=for-the-badge&logo=serverless&logoColor=white" />
 </p>
 
 ### Languages
@@ -89,7 +89,7 @@ $ whoami
 ### Testing
 <p>
   <img src="https://img.shields.io/badge/PHPUnit-3F4F75?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pest-EF4444?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pest-1E3A5F ?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 ---
@@ -106,10 +106,10 @@ $ whoami
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kurtbey1&show_icons=true&theme=dark&title_color=EF4444&icon_color=EF4444&border_color=EF4444&hide_border=false" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Kurtbey1&theme=dark&ring=EF4444&fire=EF4444&currStreakLabel=EF4444&border=EF4444" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kurtbey1&show_icons=true&theme=dark&title_color=1E3A5F &icon_color=1E3A5F &border_color=1E3A5F &hide_border=false" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Kurtbey1&theme=dark&ring=1E3A5F &fire=1E3A5F &currStreakLabel=1E3A5F &border=1E3A5F " />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kurtbey1&bg_color=0d1117&color=EF4444&line=EF4444&point=ffffff&area=true&border_color=EF4444" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kurtbey1&bg_color=0d1117&color=1E3A5F &line=1E3A5F &point=ffffff&area=true&border_color=1E3A5F " />
 
 </div>
 
@@ -127,5 +127,5 @@ $ whoami
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
   <br/>
-  <b style="color:#EF4444">Building systems with precision & purpose</b>
+  <b style="color:#1E3A5F ">Building systems with precision & purpose</b>
 </div>
