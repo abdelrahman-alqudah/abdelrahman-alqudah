@@ -1,4 +1,3 @@
-Here's the fixed README with the correct username everywhere:
 markdown<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&section=header&text=Abd%20Elrahman%20Alqudah&fontSize=45&fontColor=FFFFFF&desc=Backend%20Engineer%20%7C%20DevSecOps&descSize=20&descAlignY=65&color=1E3A5F" />
