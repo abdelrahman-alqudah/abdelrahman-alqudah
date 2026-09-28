@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" src="profile-card.svg" alt="Abd Elrahman Alqudah — Backend Engineer, DevSecOps" />
+<img width="100%" src="profile-card.svg" alt="Abd Elrahman Alqudah — Software Engineer" />
 
 <br/>
 
 <a href="https://github.com/abdelrahman-alqudah">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&color=1B3A66&lines=Backend+Engineer+%7C+DevSecOps;Laravel+%26+ASP.NET+Core;Firestore+%2F+Cloud+Run+%2F+Cloud+Armor;Systems+That+Fail+Predictably" />
+  <img alt="Software Engineer | Backend Systems · Laravel & ASP.NET Core · Firestore / Cloud Run / Cloud Armor · Systems That Fail Predictably" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&color=1B3A66&lines=Software+Engineer+%7C+Backend+Systems;Laravel+%26+ASP.NET+Core;Firestore+%2F+Cloud+Run+%2F+Cloud+Armor;Systems+That+Fail+Predictably" />
 </a>
 
 <br/><br/>
@@ -31,20 +31,24 @@
 
 ```bash
 $ whoami
-→ Backend engineer. I design APIs, data models, and the infrastructure around them.
+→ Software engineer. I design APIs, data models, and the infrastructure around them.
   Security isn't a checklist at the end — it's in the schema and the access rules
   from the first draft.
 ```
 
 ---
 
-## 🔴 Currently
+## 🔴 Currently building: U JO RESIDENT
 
-Architecting **U JO RESIDENT** end-to-end on Firebase/GCP — Firestore schema design,
-an async pipeline (queue → consumer) instead of synchronous chains, Cloud Run services
-sitting behind Cloud Armor, secrets in Secret Manager, and Gemini calls routed through
-the API tier instead of exposed client-side. The diagram in the banner above is a piece
-of that pipeline, not a stock icon set.
+An end-to-end platform on Firebase/GCP, designed around the failure case first:
+
+- **Data layer** — Firestore schema design driven by access patterns and security rules, not by convenience
+- **Async pipeline** — queue → consumer instead of synchronous request chains, so one slow dependency can't take down the request path
+- **Compute & edge** — Cloud Run services behind Cloud Armor
+- **Secrets** — Secret Manager only; nothing sensitive in client code or in the repo
+- **AI integration** — model calls routed through the API tier and never exposed client-side
+
+The diagram in the banner above is a piece of that pipeline, not a stock icon set.
 
 ---
 
@@ -54,10 +58,10 @@ of that pipeline, not a stock icon set.
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-1B3A66?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-1B3A66?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-1B3A66?style=for-the-badge&logo=serverless&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-1B3A66?style=for-the-badge" />
 </p>
 
 ### Languages
@@ -70,7 +74,7 @@ of that pipeline, not a stock icon set.
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
-### Data & Infra
+### Data & Cloud
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -80,7 +84,7 @@ of that pipeline, not a stock icon set.
   <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
-### DevSecOps
+### Infrastructure & Security Tooling
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
@@ -100,9 +104,9 @@ of that pipeline, not a stock icon set.
 
 ## 💡 What I Do
 
-- **Backend development** — APIs with Laravel & ASP.NET Core, built for the failure case first
-- **System design** — schemas, queues, and the boundary between "cache" and "source of truth"
-- **DevSecOps** — CI/CD, Cloud Armor, security rules, secrets that live in a vault and not in an `.env` committed by accident
+- **Software engineering** — APIs with Laravel & ASP.NET Core, built for the failure case first
+- **System design** — schemas, queues, and a clear line between "cache" and "source of truth"
+- **Infrastructure & security** — CI/CD, Cloud Armor, security rules, and secrets that live in a vault instead of an `.env` committed by accident
 - **Database engineering** — PostgreSQL and Firestore schema design, query and index tuning, Redis caching
 
 ---
@@ -126,7 +130,7 @@ of that pipeline, not a stock icon set.
 📍 &nbsp;Amman, Jordan
 🌐 &nbsp;abdelrahmanalqudah.dev
 
-> Open to backend, API, and system design roles. Remote-first, open to discussion. I respond within 24 hours.
+> Open to software engineering roles — backend, APIs, and system design. Remote-first, open to discussion. I respond within 24 hours.
 
 ---
 
