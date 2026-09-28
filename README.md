@@ -87,24 +87,13 @@ flowchart LR
   </tr>
 </table>
 
-## GitHub stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdelrahman-alqudah&show_icons=true&theme=dark&title_color=D9B44A&icon_color=2E6FD9&text_color=B4C2DE&border_color=123A66&bg_color=060B18" alt="GitHub stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=abdelrahman-alqudah&theme=dark&ring=2E6FD9&fire=D9B44A&currStreakLabel=D9B44A&sideLabels=B4C2DE&border=123A66&background=060B18" alt="GitHub streak" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdelrahman-alqudah&bg_color=060B18&color=B4C2DE&line=2E6FD9&point=F3D7C4&area=true&area_color=2E6FD9&title_color=D9B44A&border_color=123A66" alt="Contribution activity" />
-
-</div>
-
 <img src="divider.svg" width="100%" alt="" />
 
 ## Contact
 
 <div align="center">
 
-Amman, Jordan &nbsp;·&nbsp; [info@abdelrahmanalqudah.dev](mailto:info@abdelrahmanalqudah.dev) &nbsp;·&nbsp; [abdelrahmanalqudah.dev](https://abdelrahmanalqudah.dev)
+Amman, Jordan &nbsp;·&nbsp; [info@abdelrahmanalqudah.dev](mailto:info@abdelrahmanalqudah.dev) &nbsp;·&nbsp; [CognitiveScale.net](https://cognitivescale.net)
 
 </div>
 
