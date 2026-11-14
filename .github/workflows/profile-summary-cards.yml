@@ -1,12 +1,6 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  create:
-  push:
-    branches:
-      - main
-    paths-ignore:
-      - "profile-summary-card-output/**"
   schedule: # execute every 24 hours
     - cron: "0 0 * * *"
   workflow_dispatch:
@@ -20,9 +14,40 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN || secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
 
+      - name: Apply Blue & Cyan Theme
+        run: |
+          git pull origin main
+          python3 - << 'EOF'
+          import os, glob
+          os.makedirs("profile-summary-card-output/blue_cyan", exist_ok=True)
+          replacements = [
+              ('stroke="#1a1b27" stroke-width="1" fill="#1a1b27"', 'stroke="#1e3a6e" stroke-width="1.2" fill="#0a1224"'),
+              ("#1a1b27", "#0a1224"),
+              ("#70a5fd", "#38bdf8"),
+              ("#bf91f3", "#00d2ff"),
+              ("#38bdae", "#7dd3fc"),
+              ("#7355dd", "#00d2ff"),
+              ("#f7523f", "#0284c7"),
+              ("#89e051", "#38bdf8"),
+              ("#4F5D95", "#67e8f9"),
+              ("#3572A5", "#2E6FD9"),
+          ]
+          for p in glob.glob("profile-summary-card-output/tokyonight/*.svg"):
+              fname = os.path.basename(p)
+              txt = open(p, encoding="utf-8").read()
+              for old, new in replacements:
+                  txt = txt.replace(old, new)
+              open(p, "w", encoding="utf-8").write(txt)
+              open(f"profile-summary-card-output/blue_cyan/{fname}", "w", encoding="utf-8").write(txt)
+          EOF
+          git config user.name "profile-summary-cards[bot]"
+          git config user.email "profile-summary-cards-bot@example.com"
+          git add profile-summary-card-output/blue_cyan profile-summary-card-output/tokyonight
+          git diff --cached --quiet || (git commit -m "Apply blue and cyan theme to summary cards" && git push origin main)

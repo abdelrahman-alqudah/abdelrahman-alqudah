@@ -1,23 +1,37 @@
 <div align="center">
 
-<img width="100%" src="profile-card.svg" alt="Abd Elrahman Alqudah, Software Engineer" />
+[![Profile Details](https://raw.githubusercontent.com/abdelrahman-alqudah/abdelrahman-alqudah/main/profile-summary-card-output/blue_cyan/0-profile-details.svg)](https://github.com/abdelrahman-alqudah)
+[![Top Languages by Repo](https://raw.githubusercontent.com/abdelrahman-alqudah/abdelrahman-alqudah/main/profile-summary-card-output/blue_cyan/1-repos-per-language.svg)](https://github.com/abdelrahman-alqudah) [![Top Languages by Commit](https://raw.githubusercontent.com/abdelrahman-alqudah/abdelrahman-alqudah/main/profile-summary-card-output/blue_cyan/2-most-commit-language.svg)](https://github.com/abdelrahman-alqudah)
+[![Stats](https://raw.githubusercontent.com/abdelrahman-alqudah/abdelrahman-alqudah/main/profile-summary-card-output/blue_cyan/3-stats.svg)](https://github.com/abdelrahman-alqudah) [![Productive Time](https://raw.githubusercontent.com/abdelrahman-alqudah/abdelrahman-alqudah/main/profile-summary-card-output/blue_cyan/4-productive-time.svg)](https://github.com/abdelrahman-alqudah)
+
+<br/>
+
+[![abdelrahman-alqudah/Cosmos](https://raw.githubusercontent.com/abdelrahman-alqudah/abdelrahman-alqudah/main/cosmos-pin.svg)](https://github.com/abdelrahman-alqudah/Cosmos)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/abdelrahman-alqudah/abdelrahman-alqudah/main/divider.svg" width="100%" alt="" />
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/abdelrahman-alqudah/abdelrahman-alqudah/main/profile-card.svg" alt="Abd Elrahman Alqudah, Software Engineer" />
 
 <br/>
 
 <a href="https://github.com/abdelrahman-alqudah">
-  <img alt="Software Engineer building backend systems that fail predictably" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&center=true&vCenter=true&width=700&color=2E6FD9&lines=Software+Engineer+%7C+Backend+Systems;Laravel+%26+ASP.NET+Core;Firestore+%2F+Cloud+Run+%2F+Cloud+Armor;Systems+that+fail+predictably" />
+  <img alt="Software Engineer building backend systems that fail predictably" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&center=true&vCenter=true&width=700&color=00D2FF&lines=Software+Engineer+%7C+Backend+Systems;Laravel+%26+ASP.NET+Core;Firestore+%2F+Cloud+Run+%2F+Cloud+Armor;Systems+that+fail+predictably" />
 </a>
 
 <br/><br/>
 
-<a href="https://abdelrahmanalqudah.dev"><img src="https://img.shields.io/badge/Portfolio-0E2340?style=for-the-badge&logo=firefox&logoColor=F3D7C4" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/abd-elarhman/"><img src="https://img.shields.io/badge/LinkedIn-0E2340?style=for-the-badge&logo=linkedin&logoColor=F3D7C4" alt="LinkedIn" /></a>
-<a href="mailto:info@abdelrahmanalqudah.dev"><img src="https://img.shields.io/badge/Email-0E2340?style=for-the-badge&logo=gmail&logoColor=F3D7C4" alt="Email" /></a>
-<a href="https://github.com/abdelrahman-alqudah"><img src="https://img.shields.io/badge/GitHub-0E2340?style=for-the-badge&logo=github&logoColor=F3D7C4" alt="GitHub" /></a>
+<a href="https://abdelrahmanalqudah.dev"><img src="https://img.shields.io/badge/Portfolio-0E2340?style=for-the-badge&logo=firefox&logoColor=00D2FF" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/abd-elarhman/"><img src="https://img.shields.io/badge/LinkedIn-0E2340?style=for-the-badge&logo=linkedin&logoColor=00D2FF" alt="LinkedIn" /></a>
+<a href="mailto:info@abdelrahmanalqudah.dev"><img src="https://img.shields.io/badge/Email-0E2340?style=for-the-badge&logo=gmail&logoColor=00D2FF" alt="Email" /></a>
+<a href="https://github.com/abdelrahman-alqudah"><img src="https://img.shields.io/badge/GitHub-0E2340?style=for-the-badge&logo=github&logoColor=00D2FF" alt="GitHub" /></a>
 
 </div>
 
-<img src="divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/abdelrahman-alqudah/abdelrahman-alqudah/main/divider.svg" width="100%" alt="" />
 
 ```bash
 $ whoami
@@ -26,30 +40,12 @@ $ whoami
   from the first draft.
 ```
 
-<div align="center">
-
-[![Profile Details](https://raw.githubusercontent.com/abdelrahman-alqudah/abdelrahman-alqudah/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/abdelrahman-alqudah)
-[![Top Languages by Repo](https://raw.githubusercontent.com/abdelrahman-alqudah/abdelrahman-alqudah/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/abdelrahman-alqudah) [![Top Languages by Commit](https://raw.githubusercontent.com/abdelrahman-alqudah/abdelrahman-alqudah/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/abdelrahman-alqudah)
-[![Stats](https://raw.githubusercontent.com/abdelrahman-alqudah/abdelrahman-alqudah/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/abdelrahman-alqudah) [![Productive Time](https://raw.githubusercontent.com/abdelrahman-alqudah/abdelrahman-alqudah/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/abdelrahman-alqudah)
-
-</div>
-
-## Pinned repository
-
-<div align="center">
-
-[![abdelrahman-alqudah/Cosmos](https://raw.githubusercontent.com/abdelrahman-alqudah/abdelrahman-alqudah/main/cosmos-pin.svg)](https://github.com/abdelrahman-alqudah/Cosmos)
-
-</div>
-
-<img src="divider.svg" width="100%" alt="" />
-
 ## Currently building: U JO RESIDENT
 
 An end-to-end platform on Firebase and GCP, designed around the failure case first. Slow or failing dependencies stay off the request path, and nothing sensitive ever reaches the client.
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0E2340','primaryTextColor':'#F3D7C4','primaryBorderColor':'#2E6FD9','lineColor':'#2E6FD9','secondaryColor':'#14213A','tertiaryColor':'#08111F','fontFamily':'ui-sans-serif, system-ui, sans-serif'}}}%%
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0E2340','primaryTextColor':'#E0F2FE','primaryBorderColor':'#00D2FF','lineColor':'#2E6FD9','secondaryColor':'#14213A','tertiaryColor':'#08111F','fontFamily':'ui-sans-serif, system-ui, sans-serif'}}}%%
 flowchart LR
     Client([Client]) --> Armor{{Cloud Armor}}
     Armor --> API[API on Cloud Run]
@@ -73,12 +69,12 @@ flowchart LR
 
 | | |
 | :-- | :-- |
-| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-0E2340?style=flat-square&logo=laravel&logoColor=F3D7C4) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0E2340?style=flat-square&logo=dotnet&logoColor=F3D7C4) ![Entity Framework](https://img.shields.io/badge/Entity_Framework-0E2340?style=flat-square&logo=dotnet&logoColor=F3D7C4) ![REST](https://img.shields.io/badge/REST_APIs-0E2340?style=flat-square) ![JWT](https://img.shields.io/badge/JWT-0E2340?style=flat-square&logo=jsonwebtokens&logoColor=F3D7C4) ![OAuth2](https://img.shields.io/badge/OAuth2-0E2340?style=flat-square&logo=auth0&logoColor=F3D7C4) |
-| **Languages** | ![C#](https://img.shields.io/badge/C%23-0E2340?style=flat-square&logo=csharp&logoColor=F3D7C4) ![PHP](https://img.shields.io/badge/PHP-0E2340?style=flat-square&logo=php&logoColor=F3D7C4) ![Go](https://img.shields.io/badge/Go-0E2340?style=flat-square&logo=go&logoColor=F3D7C4) ![Python](https://img.shields.io/badge/Python-0E2340?style=flat-square&logo=python&logoColor=F3D7C4) ![C++](https://img.shields.io/badge/C++-0E2340?style=flat-square&logo=cplusplus&logoColor=F3D7C4) ![Bash](https://img.shields.io/badge/Bash-0E2340?style=flat-square&logo=gnubash&logoColor=F3D7C4) |
-| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0E2340?style=flat-square&logo=postgresql&logoColor=F3D7C4) ![MySQL](https://img.shields.io/badge/MySQL-0E2340?style=flat-square&logo=mysql&logoColor=F3D7C4) ![Redis](https://img.shields.io/badge/Redis-0E2340?style=flat-square&logo=redis&logoColor=F3D7C4) ![Firestore](https://img.shields.io/badge/Firestore-0E2340?style=flat-square&logo=firebase&logoColor=F3D7C4) |
-| **Cloud** | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-0E2340?style=flat-square&logo=googlecloud&logoColor=F3D7C4) ![Firebase](https://img.shields.io/badge/Firebase-0E2340?style=flat-square&logo=firebase&logoColor=F3D7C4) ![Cloud Run](https://img.shields.io/badge/Cloud_Run-0E2340?style=flat-square&logo=googlecloud&logoColor=F3D7C4) ![Cloud Armor](https://img.shields.io/badge/Cloud_Armor-0E2340?style=flat-square&logo=googlecloud&logoColor=F3D7C4) ![Secret Manager](https://img.shields.io/badge/Secret_Manager-0E2340?style=flat-square&logo=googlecloud&logoColor=F3D7C4) |
-| **Delivery and security** | ![Docker](https://img.shields.io/badge/Docker-0E2340?style=flat-square&logo=docker&logoColor=F3D7C4) ![Terraform](https://img.shields.io/badge/Terraform-0E2340?style=flat-square&logo=terraform&logoColor=F3D7C4) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0E2340?style=flat-square&logo=githubactions&logoColor=F3D7C4) ![SonarQube](https://img.shields.io/badge/SonarQube-0E2340?style=flat-square&logo=sonarqube&logoColor=F3D7C4) ![Snyk](https://img.shields.io/badge/Snyk-0E2340?style=flat-square&logo=snyk&logoColor=F3D7C4) |
-| **Testing** | ![PHPUnit](https://img.shields.io/badge/PHPUnit-0E2340?style=flat-square&logo=php&logoColor=F3D7C4) ![Pest](https://img.shields.io/badge/Pest-0E2340?style=flat-square&logo=php&logoColor=F3D7C4) |
+| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-0E2340?style=flat-square&logo=laravel&logoColor=00D2FF) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0E2340?style=flat-square&logo=dotnet&logoColor=00D2FF) ![Entity Framework](https://img.shields.io/badge/Entity_Framework-0E2340?style=flat-square&logo=dotnet&logoColor=00D2FF) ![REST](https://img.shields.io/badge/REST_APIs-0E2340?style=flat-square) ![JWT](https://img.shields.io/badge/JWT-0E2340?style=flat-square&logo=jsonwebtokens&logoColor=00D2FF) ![OAuth2](https://img.shields.io/badge/OAuth2-0E2340?style=flat-square&logo=auth0&logoColor=00D2FF) |
+| **Languages** | ![C#](https://img.shields.io/badge/C%23-0E2340?style=flat-square&logo=csharp&logoColor=00D2FF) ![PHP](https://img.shields.io/badge/PHP-0E2340?style=flat-square&logo=php&logoColor=00D2FF) ![Go](https://img.shields.io/badge/Go-0E2340?style=flat-square&logo=go&logoColor=00D2FF) ![Python](https://img.shields.io/badge/Python-0E2340?style=flat-square&logo=python&logoColor=00D2FF) ![C++](https://img.shields.io/badge/C++-0E2340?style=flat-square&logo=cplusplus&logoColor=00D2FF) ![Bash](https://img.shields.io/badge/Bash-0E2340?style=flat-square&logo=gnubash&logoColor=00D2FF) |
+| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0E2340?style=flat-square&logo=postgresql&logoColor=00D2FF) ![MySQL](https://img.shields.io/badge/MySQL-0E2340?style=flat-square&logo=mysql&logoColor=00D2FF) ![Redis](https://img.shields.io/badge/Redis-0E2340?style=flat-square&logo=redis&logoColor=00D2FF) ![Firestore](https://img.shields.io/badge/Firestore-0E2340?style=flat-square&logo=firebase&logoColor=00D2FF) |
+| **Cloud** | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-0E2340?style=flat-square&logo=googlecloud&logoColor=00D2FF) ![Firebase](https://img.shields.io/badge/Firebase-0E2340?style=flat-square&logo=firebase&logoColor=00D2FF) ![Cloud Run](https://img.shields.io/badge/Cloud_Run-0E2340?style=flat-square&logo=googlecloud&logoColor=00D2FF) ![Cloud Armor](https://img.shields.io/badge/Cloud_Armor-0E2340?style=flat-square&logo=googlecloud&logoColor=00D2FF) ![Secret Manager](https://img.shields.io/badge/Secret_Manager-0E2340?style=flat-square&logo=googlecloud&logoColor=00D2FF) |
+| **Delivery and security** | ![Docker](https://img.shields.io/badge/Docker-0E2340?style=flat-square&logo=docker&logoColor=00D2FF) ![Terraform](https://img.shields.io/badge/Terraform-0E2340?style=flat-square&logo=terraform&logoColor=00D2FF) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0E2340?style=flat-square&logo=githubactions&logoColor=00D2FF) ![SonarQube](https://img.shields.io/badge/SonarQube-0E2340?style=flat-square&logo=sonarqube&logoColor=00D2FF) ![Snyk](https://img.shields.io/badge/Snyk-0E2340?style=flat-square&logo=snyk&logoColor=00D2FF) |
+| **Testing** | ![PHPUnit](https://img.shields.io/badge/PHPUnit-0E2340?style=flat-square&logo=php&logoColor=00D2FF) ![Pest](https://img.shields.io/badge/Pest-0E2340?style=flat-square&logo=php&logoColor=00D2FF) |
 
 ## What I do
 
@@ -105,7 +101,7 @@ flowchart LR
   </tr>
 </table>
 
-<img src="divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/abdelrahman-alqudah/abdelrahman-alqudah/main/divider.svg" width="100%" alt="" />
 
 ## Contact
 

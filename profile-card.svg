@@ -15,10 +15,10 @@
     <linearGradient id="border" x1="0" y1="0" x2="900" y2="460" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#2E6FD9"/>
       <stop offset=".5" stop-color="#123A66"/>
-      <stop offset="1" stop-color="#C9A227"/>
+      <stop offset="1" stop-color="#00D2FF"/>
     </linearGradient>
     <linearGradient id="rule" x1="64" y1="0" x2="340" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#C9A227"/>
+      <stop offset="0" stop-color="#00D2FF"/>
       <stop offset=".45" stop-color="#2E6FD9" stop-opacity=".8"/>
       <stop offset="1" stop-color="#2E6FD9" stop-opacity="0"/>
     </linearGradient>
@@ -28,9 +28,9 @@
       <stop offset="1" stop-color="#4FA3FF" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="goldGlow" cx=".5" cy=".5" r=".5">
-      <stop offset="0" stop-color="#FFF3CC"/>
-      <stop offset=".5" stop-color="#E5C25A" stop-opacity=".9"/>
-      <stop offset="1" stop-color="#C9A227" stop-opacity="0"/>
+      <stop offset="0" stop-color="#E0F2FE"/>
+      <stop offset=".5" stop-color="#38BDF8" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#00D2FF" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="corner" cx=".5" cy=".5" r=".5">
       <stop offset="0" stop-color="#2E6FD9" stop-opacity=".22"/>
@@ -44,7 +44,7 @@
       <path d="M0,0.5 L7.5,4 L0,7.5 z" fill="#2E6FD9"/>
     </marker>
     <marker id="arrowGold" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="6" markerHeight="6" orient="auto">
-      <path d="M0,0.5 L7.5,4 L0,7.5 z" fill="#C9A227"/>
+      <path d="M0,0.5 L7.5,4 L0,7.5 z" fill="#00D2FF"/>
     </marker>
     <clipPath id="panelClip"><rect x="486" y="40" width="364" height="380" rx="14"/></clipPath>
   </defs>
@@ -55,8 +55,8 @@
 
   <!-- identity -->
   <g class="sans">
-    <text x="64" y="104" font-size="30" font-weight="700" fill="#F6EBDD" letter-spacing=".2" class="serif">Abd Elrahman Alqudah</text>
-    <text x="64" y="138" font-size="17" font-weight="600" fill="#D9B44A">Software Engineer</text>
+    <text x="64" y="104" font-size="30" font-weight="700" fill="#E0F2FE" letter-spacing=".2" class="serif">Abd Elrahman Alqudah</text>
+    <text x="64" y="138" font-size="17" font-weight="600" fill="#00D2FF">Software Engineer</text>
     <rect x="64" y="153" width="276" height="2" rx="1" fill="url(#rule)"/>
 
     <g font-size="13.5" fill="#B4C2DE">
@@ -66,10 +66,10 @@
     </g>
 
     <g fill="#0E2340" stroke="#23528F" stroke-width="1"><rect x="64" y="250" width="103" height="26" rx="13"/><rect x="175" y="250" width="71" height="26" rx="13"/><rect x="254" y="250" width="39" height="26" rx="13"/><rect x="64" y="284" width="90" height="26" rx="13"/><rect x="162" y="284" width="58" height="26" rx="13"/><rect x="228" y="284" width="77" height="26" rx="13"/><rect x="64" y="318" width="84" height="26" rx="13"/><rect x="156" y="318" width="64" height="26" rx="13"/><rect x="228" y="318" width="116" height="26" rx="13"/></g>
-    <g font-size="11.5" font-weight="600" fill="#F3D7C4" text-anchor="middle"><text x="115.5" y="267.5">ASP.NET Core</text><text x="210.5" y="267.5">Laravel</text><text x="273.5" y="267.5">Go</text><text x="109.0" y="301.5">PostgreSQL</text><text x="191.0" y="301.5">Redis</text><text x="266.5" y="301.5">Firebase</text><text x="106.0" y="335.5">Cloud Run</text><text x="188.0" y="335.5">Docker</text><text x="286.0" y="335.5">GitHub Actions</text></g>
+    <g font-size="11.5" font-weight="600" fill="#BAE6FD" text-anchor="middle"><text x="115.5" y="267.5">ASP.NET Core</text><text x="210.5" y="267.5">Laravel</text><text x="273.5" y="267.5">Go</text><text x="109.0" y="301.5">PostgreSQL</text><text x="191.0" y="301.5">Redis</text><text x="266.5" y="301.5">Firebase</text><text x="106.0" y="335.5">Cloud Run</text><text x="188.0" y="335.5">Docker</text><text x="286.0" y="335.5">GitHub Actions</text></g>
 
-    <circle cx="70" cy="378" r="4" fill="#C9A227"/>
-    <text x="84" y="384" font-size="16" font-style="italic" fill="#F3D7C4" class="serif">Systems that fail predictably.</text>
+    <circle cx="70" cy="378" r="4" fill="#00D2FF"/>
+    <text x="84" y="384" font-size="16" font-style="italic" fill="#BAE6FD" class="serif">Systems that fail predictably.</text>
 
     <g font-size="13" fill="#8FA3C9">
       <text x="64" y="416">abdelrahmanalqudah.dev</text>
@@ -84,30 +84,30 @@
   <g clip-path="url(#panelClip)">
     <!-- connectors -->
     <g stroke="#2E6FD9" stroke-opacity=".7" stroke-width="1.6" fill="none"><path id="p1" d="M582,140 L616,140" marker-end="url(#arrow)"/><path id="p2" d="M717,140 L751,140" marker-end="url(#arrow)"/><path id="p3" d="M794,155.0 L794,210.0" marker-end="url(#arrow)"/><path id="p4" d="M752,226 L710,226" marker-end="url(#arrow)"/><path id="p5" d="M625,226 L583,226" marker-end="url(#arrow)"/><path id="p6" d="M540,241.0 L540,296.0" marker-end="url(#arrow)"/><path id="p7" d="M582,312 L624,312" marker-end="url(#arrow)"/></g>
-    <g fill="none" stroke-opacity=".8" stroke-width="1.4"><path id="p8" d="M794,80 L794,124.0" stroke="#C9A227" stroke-dasharray="3 4" marker-end="url(#arrowGold)"/></g>
+    <g fill="none" stroke-opacity=".8" stroke-width="1.4"><path id="p8" d="M794,80 L794,124.0" stroke="#00D2FF" stroke-dasharray="3 4" marker-end="url(#arrowGold)"/></g>
     <circle r="4" fill="url(#nodeGlow)"><animateMotion dur="2.4s" begin="0s" repeatCount="indefinite"><mpath xlink:href="#p1"/></animateMotion></circle><circle r="4" fill="url(#nodeGlow)"><animateMotion dur="2.4s" begin="0.5s" repeatCount="indefinite"><mpath xlink:href="#p2"/></animateMotion></circle><circle r="4" fill="url(#nodeGlow)"><animateMotion dur="2.0s" begin="1.0s" repeatCount="indefinite"><mpath xlink:href="#p3"/></animateMotion></circle><circle r="4" fill="url(#nodeGlow)"><animateMotion dur="2.4s" begin="1.5s" repeatCount="indefinite"><mpath xlink:href="#p4"/></animateMotion></circle><circle r="4" fill="url(#nodeGlow)"><animateMotion dur="2.4s" begin="2.0s" repeatCount="indefinite"><mpath xlink:href="#p5"/></animateMotion></circle><circle r="4" fill="url(#nodeGlow)"><animateMotion dur="2.0s" begin="2.5s" repeatCount="indefinite"><mpath xlink:href="#p6"/></animateMotion></circle><circle r="4" fill="url(#nodeGlow)"><animateMotion dur="2.4s" begin="3.0s" repeatCount="indefinite"><mpath xlink:href="#p7"/></animateMotion></circle><circle r="3" fill="url(#goldGlow)"><animateMotion dur="1.8s" begin="0.3s" repeatCount="indefinite"><mpath xlink:href="#p8"/></animateMotion></circle>
 
     <!-- edge gate: soft halo behind Cloud Armor -->
-    <rect x="613" y="121.0" width="108" height="38" rx="11" fill="#C9A227" opacity=".18" filter="url(#blur)">
+    <rect x="613" y="121.0" width="108" height="38" rx="11" fill="#00D2FF" opacity=".18" filter="url(#blur)">
       <animate attributeName="opacity" values=".08;.3;.08" dur="3.2s" repeatCount="indefinite"/>
     </rect>
 
     <!-- nodes -->
     <g class="sans" font-size="12" font-weight="600" text-anchor="middle">
-      <rect x="498.0" y="125.0" width="84" height="30" rx="8" fill="#0E2340" stroke="#1B3A66" stroke-width="1.2"/><text x="540" y="144.3" fill="#F3D7C4">Client</text>
-      <rect x="617.0" y="125.0" width="100" height="30" rx="8" fill="#14213A" stroke="#C9A227" stroke-width="1.2"/><text x="667" y="144.3" fill="#FFF3CC">Cloud Armor</text>
-      <rect x="752.0" y="125.0" width="84" height="30" rx="8" fill="#0E2340" stroke="#2E6FD9" stroke-width="1.2"/><text x="794" y="144.3" fill="#F3D7C4">API</text>
-      <rect x="752.0" y="211.0" width="84" height="30" rx="8" fill="#0E2340" stroke="#2E6FD9" stroke-width="1.2"/><text x="794" y="230.3" fill="#F3D7C4">Queue</text>
-      <rect x="625.0" y="211.0" width="84" height="30" rx="8" fill="#0E2340" stroke="#2E6FD9" stroke-width="1.2"/><text x="667" y="230.3" fill="#F3D7C4">Worker</text>
-      <rect x="498.0" y="211.0" width="84" height="30" rx="8" fill="#0E2340" stroke="#1B3A66" stroke-width="1.2"/><text x="540" y="230.3" fill="#F3D7C4">AI model</text>
-      <rect x="498.0" y="297.0" width="84" height="30" rx="8" fill="#0E2340" stroke="#2E6FD9" stroke-width="1.2"/><text x="540" y="316.3" fill="#F3D7C4">Consumer</text>
-      <rect x="625.0" y="297.0" width="84" height="30" rx="8" fill="#0E2340" stroke="#C9A227" stroke-width="1.2"/><text x="667" y="316.3" fill="#FFF3CC">Firestore</text>
-      <rect x="752" y="58" width="84" height="22" rx="11" fill="#14213A" stroke="#C9A227" stroke-opacity=".7" stroke-dasharray="3 3"/>
-      <text x="794" y="72.5" font-size="10.5" fill="#E5C25A">Secret Manager</text>
+      <rect x="498.0" y="125.0" width="84" height="30" rx="8" fill="#0E2340" stroke="#1B3A66" stroke-width="1.2"/><text x="540" y="144.3" fill="#BAE6FD">Client</text>
+      <rect x="617.0" y="125.0" width="100" height="30" rx="8" fill="#14213A" stroke="#00D2FF" stroke-width="1.2"/><text x="667" y="144.3" fill="#E0F2FE">Cloud Armor</text>
+      <rect x="752.0" y="125.0" width="84" height="30" rx="8" fill="#0E2340" stroke="#2E6FD9" stroke-width="1.2"/><text x="794" y="144.3" fill="#BAE6FD">API</text>
+      <rect x="752.0" y="211.0" width="84" height="30" rx="8" fill="#0E2340" stroke="#2E6FD9" stroke-width="1.2"/><text x="794" y="230.3" fill="#BAE6FD">Queue</text>
+      <rect x="625.0" y="211.0" width="84" height="30" rx="8" fill="#0E2340" stroke="#2E6FD9" stroke-width="1.2"/><text x="667" y="230.3" fill="#BAE6FD">Worker</text>
+      <rect x="498.0" y="211.0" width="84" height="30" rx="8" fill="#0E2340" stroke="#1B3A66" stroke-width="1.2"/><text x="540" y="230.3" fill="#BAE6FD">AI model</text>
+      <rect x="498.0" y="297.0" width="84" height="30" rx="8" fill="#0E2340" stroke="#2E6FD9" stroke-width="1.2"/><text x="540" y="316.3" fill="#BAE6FD">Consumer</text>
+      <rect x="625.0" y="297.0" width="84" height="30" rx="8" fill="#0E2340" stroke="#00D2FF" stroke-width="1.2"/><text x="667" y="316.3" fill="#E0F2FE">Firestore</text>
+      <rect x="752" y="58" width="84" height="22" rx="11" fill="#14213A" stroke="#00D2FF" stroke-opacity=".7" stroke-dasharray="3 3"/>
+      <text x="794" y="72.5" font-size="10.5" fill="#38BDF8">Secret Manager</text>
     </g>
 
     <!-- lock badge on the gate -->
-    <circle cx="667" cy="125.0" r="9" fill="#C9A227"/>
+    <circle cx="667" cy="125.0" r="9" fill="#00D2FF"/>
     <rect x="663" y="124.0" width="8" height="6" rx="1.4" fill="#0A1526"/>
     <path d="M664.4,124.0 L664.4,121.8 C664.4,118.8 669.6,118.8 669.6,121.8 L669.6,124.0" stroke="#0A1526" stroke-width="1.5" fill="none"/>
 
