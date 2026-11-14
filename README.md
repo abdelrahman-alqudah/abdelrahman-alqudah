@@ -87,6 +87,26 @@ flowchart LR
   </tr>
 </table>
 
+## Pinned repository
+
+<div align="center">
+
+[![abdelrahman-alqudah/Cosmos](cosmos-pin.svg)](https://github.com/abdelrahman-alqudah/Cosmos)
+
+</div>
+
+## GitHub stats
+
+<div align="center">
+
+[![Profile Details](profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/abdelrahman-alqudah)
+
+[![Top Languages by Repo](profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/abdelrahman-alqudah) [![Top Languages by Commit](profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/abdelrahman-alqudah)
+
+[![Stats](profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/abdelrahman-alqudah) [![Productive Time](profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/abdelrahman-alqudah)
+
+</div>
+
 <img src="divider.svg" width="100%" alt="" />
 
 ## Contact
